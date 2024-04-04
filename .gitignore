@@ -25,6 +25,6 @@ replay_pid*
 
 
 # my project file
-.project
-.classpath
-.settings
+*.project
+*.classpath
+*.settings
